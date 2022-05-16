@@ -1,7 +1,5 @@
-Hi this file contains the python script
-<<<<<<< HEAD
+Hi this file contains the python scr
 clone to gitlab
-=======
 hello guys
 i am updatingin stage branch
->>>>>>> a6a2d8a56c691ec27c72eaa2d0ae260796fad120
+connecting through shh 
